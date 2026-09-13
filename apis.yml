@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tellapart-acquired-by-twitter-in-2015.png
-name: TellApart (acquired by Twitter in 2015)
+name: TellApart
 description: 'TellApart (acquired by Twitter in 2015) is a company surfaced as a portfolio company of
   bain-capital-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai-apps.
   This profile is a lead awaiting the enrichment pipeline.'
